@@ -5,7 +5,7 @@
     font-family:Arial, Helvetica, sans-serif;
 }
 body{
-    background:#222;
+    background: linear-gradient(139deg, #5b548a, #3e796b);
 }
 .card{
     width: 90%;
