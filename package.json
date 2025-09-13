@@ -1,0 +1,15 @@
+{
+  "name": "wheather_app_js",
+  "version": "1.0.0",
+  "description": "A simple and responsive Weather App built using HTML, CSS, and JavaScript that allows users to check the current weather conditions of any city in the world. The app fetches real-time weather data using the OpenWeatherMap API.",
+  "main": "index2.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weather",
+    "application"
+  ],
+  "author": "Abhishek",
+  "license": "ISC"
+}
